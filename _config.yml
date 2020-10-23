@@ -99,6 +99,7 @@ author:
   location         : "Beijing, China"
   email            : "gesy17@mails.tsinghua.edu.cn"
   googlescholar    : "https://scholar.google.com/citations?user=WuCV72gAAAAJ&hl=en"
+  github           : "gesy17"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -149,6 +150,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
