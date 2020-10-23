@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}  
-
 Conference Publications
 ======
 * Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\]
