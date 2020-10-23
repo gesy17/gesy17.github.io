@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Publications
 
-* <font size=3>Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\] </font>  
+* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\]  
 **Suyu Ge**, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.  
 The Web Conference (**WWW**), 2020
 
