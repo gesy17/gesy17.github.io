@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- Hi! I am an undergraduate student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/). -->
 
-This set is still under construction.
+This site is still under construction.
 
 Education
 ======
