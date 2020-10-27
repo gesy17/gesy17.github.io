@@ -11,7 +11,7 @@ redirect_from:
 
 ## Conference Publications
 
-* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\]  
+* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\] \[[Microsoft News Dataset](https://msnews.github.io/index.html)\] \[[Benchmark](https://msnews.github.io/competition.html)\]  
 **Suyu Ge**, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.  
 *The Web Conference (**WWW**), 2020*
 
@@ -23,7 +23,7 @@ redirect_from:
 **Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng   Huang, Xing Xie.  
 ***CoRR**, under review as a conference submission, 2020.*  
 
-* Neural News Recommendation with Multi-head Self-attention \[[PDF](https://www.aclweb.org/anthology/D19-1671.pdf)\]  
+* Neural News Recommendation with Multi-head Self-attention \[[PDF](https://www.aclweb.org/anthology/D19-1671.pdf)\] \[[Microsoft News Dataset](https://msnews.github.io/index.html)\] \[[Benchmark](https://msnews.github.io/competition.html)\]  
 Chuhan Wu, Fangzhao Wu, **Suyu Ge**, Tao Qi, Yongfeng Huang, Xing Xie.  
 *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019*  
 

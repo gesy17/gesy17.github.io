@@ -22,7 +22,7 @@ Experience
 
 Selected Publications
 ======
-* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\]  
+* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\] \[[Microsoft News Dataset](https://msnews.github.io/index.html)\] \[[Benchmark](https://msnews.github.io/competition.html)\]  
 **Suyu Ge**, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.  
 *The Web Conference (**WWW**), 2020*
 
