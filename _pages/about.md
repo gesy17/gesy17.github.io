@@ -14,7 +14,7 @@ This site is still under construction.
 
 Education
 ======
-* B.S. in Electronic Engineering, Tsinghua University, 2017-2021
+* B.S. in Electronic Engineering, Tsinghua University, 2017-2021 (expected)
 
 Experience
 ======
@@ -26,7 +26,7 @@ Selected Publications
 **Suyu Ge**, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.  
 *The Web Conference (**WWW**), 2020*
 
-* Helpfulness-aware review based neural recommendation \[[PDF](https://link.springer.com/article/10.1007/s42486-019-00023-0)\]  
+* Helpfulness-aware Review Based Neural Recommendation \[[PDF](https://link.springer.com/article/10.1007/s42486-019-00023-0)\]  
 **Suyu Ge**, Tao Qi, Chuhan Wu, Fangzhao Wu, Xing Xie, Yongfeng Huang.  
 *CCF Transactions on Pervasive Computing and Interaction, 2019* 
 
@@ -40,6 +40,6 @@ Selected Publications
 
 * Detecting and Extracting of Adverse Drug Reaction Mentioning Tweets with Multi-Head Self Attention \[[PDF](https://www.aclweb.org/anthology/W19-3214.pdf)\]  
 **Suyu Ge**, Tao Qi, Chuhan Wu, Yongfeng Huang.  
-*The Fourth Social Media Mining for Health Applications (**SMM4H**) Workshop, under **ACL**, 2019*  
+*The Fourth Social Media Mining for Health Applications (**SMM4H**) Workshop, colocated with **ACL**, 2019*  
 
    For a full publication list, please visit [Publications](https://gesy17.github.io/publications/)
