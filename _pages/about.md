@@ -33,7 +33,7 @@ Advisor: Prof. [Huan Liu](https://www.public.asu.edu/~huanliu/)
 Topic: Text-based Recommendation and Privacy-preserving Named Entity Recognition (NER)  
 Advisor: Prof. [Yongfeng Huang](http://thungnlab.cn/)  
 
-* **Research Intern @ University of Pennsylvania**, Jul 2017- Aug 2020  
+* **Research Intern @ University of Pennsylvania**, Jul 2019- Aug 2020  
 Topic: Medical Non-adherence Discovery  
 Advisor: Prof. [Graciela Gonzalez Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd)  
 
