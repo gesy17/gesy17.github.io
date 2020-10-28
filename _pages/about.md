@@ -25,7 +25,7 @@ Experience
 Topic: Topic-based Corpus Summarization with Minimal Supervision  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)  
 
-* **Research Intern @ Arizona State University**, Feb 2020 - Jul 2020  
+* **Research Intern @ Arizona State University**, Feb 2020 - Oct 2020  
 Topic: Cyberbully Detection  
 Advisor: Prof. [Huan Liu](https://www.public.asu.edu/~huanliu/)  
 
@@ -33,7 +33,7 @@ Advisor: Prof. [Huan Liu](https://www.public.asu.edu/~huanliu/)
 Topic: Text-based Recommendation and Privacy-preserving Named Entity Recognition    
 Advisor: Prof. [Yongfeng Huang](http://thungnlab.cn/)  
 
-* **Research Intern @ University of Pennsylvania**, Jul 2019 - Aug 2020  
+* **Research Intern @ University of Pennsylvania**, Jul 2019 - Nov 2019  
 Topic: Medical Non-adherence Discovery  
 Advisor: Prof. [Graciela Gonzalez Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd)  
 
