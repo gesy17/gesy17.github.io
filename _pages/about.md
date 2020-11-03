@@ -10,14 +10,14 @@ redirect_from:
 
 Hi! I am an undergraduate student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/).
 
-I am passionate about designing text mining algorithm for real-world application, including recommendation \[[WWW](https://arxiv.org/pdf/2003.14292.pdf)\]\[[CCF Trans](https://link.springer.com/article/10.1007/s42486-019-00023-0)\], medical NLP \[[ISMB](/files/ISMB_poster.pdf)\]\[[arXiv](https://arxiv.org/pdf/2003.09288.pdf)\] and NLP for social good \[[arXiv](https://arxiv.org/pdf/2011.00449.pdf)\].
+I am passionate about designing text mining algorithm for real-world application, including recommendation, medical NLP and NLP for social good.
 As such, I work at the intersection of data mining and natural language processing.
 
 Currently, I am working on topic-based summarization with minimal supervision, a novel task for large corpus summarization, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
 Education
 ======
-* B.S. in Electronic Engineering, Tsinghua University, 2017-2021 (expected)
+* B.E. in Electronic Engineering, Tsinghua University, 2017-2021 (expected)
 
 Experience
 ======
@@ -40,7 +40,7 @@ Advisor: Prof. [Graciela Gonzalez Hernandez](https://www.dbei.med.upenn.edu/bio/
 
 Selected Publications
 ======
-* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\] \[[Microsoft News Dataset](https://msnews.github.io/index.html)\] \[[Competition](https://msnews.github.io/competition.html)\]  
+* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\]   
 **Suyu Ge**, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.  
 *The Web Conference (**WWW**), 2020*
 

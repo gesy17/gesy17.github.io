@@ -11,7 +11,7 @@ redirect_from:
 
 ## Conference Publications
 
-* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\] \[[Microsoft News Dataset](https://msnews.github.io/index.html)\] \[[Competition](https://msnews.github.io/competition.html)\]  
+* Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\]   
 **Suyu Ge**, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.  
 *The Web Conference (**WWW**), 2020*
 
@@ -27,7 +27,7 @@ redirect_from:
 Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen Oconnor, Graciela Gonzalez-Hernandez  
 *The Intelligent Systems for Molecular Biology (**ISMB**) Conference, Poster, 2020.*
 
-* Neural News Recommendation with Multi-head Self-attention \[[PDF](https://www.aclweb.org/anthology/D19-1671.pdf)\] \[[Microsoft News Dataset](https://msnews.github.io/index.html)\] \[[Competition](https://msnews.github.io/competition.html)\]  
+* Neural News Recommendation with Multi-head Self-attention \[[PDF](https://www.aclweb.org/anthology/D19-1671.pdf)\]    
 Chuhan Wu, Fangzhao Wu, **Suyu Ge**, Tao Qi, Yongfeng Huang, Xing Xie.  
 *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2019*  
 
