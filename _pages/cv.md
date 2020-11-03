@@ -15,7 +15,7 @@ redirect_from:
 **Suyu Ge**, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.  
 *The Web Conference (**WWW**), 2020*
 
-* Improving Cyberbully Detection with User Interaction \[[PDF]()\]  
+* Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
 **Suyu Ge**, Lu Cheng, Huan Liu.  
 ***CoRR**, under review as a conference submission, 2020.* 
 

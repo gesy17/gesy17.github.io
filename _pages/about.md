@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am an undergraduate student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/).
 
-I am passionate about designing text mining algorithm for real-world application, including recommendation \[[WWW](https://arxiv.org/pdf/2003.14292.pdf)\]\[[CCF Trans](https://link.springer.com/article/10.1007/s42486-019-00023-0)\], medical NER \[[ISMB](/files/ISMB_poster.pdf)\]\[[arXiv](https://arxiv.org/pdf/2003.09288.pdf)\] and NLP for social good \[[arXiv]()\].
+I am passionate about designing text mining algorithm for real-world application, including recommendation \[[WWW](https://arxiv.org/pdf/2003.14292.pdf)\]\[[CCF Trans](https://link.springer.com/article/10.1007/s42486-019-00023-0)\], medical NLP \[[ISMB](/files/ISMB_poster.pdf)\]\[[arXiv](https://arxiv.org/pdf/2003.09288.pdf)\] and NLP for social good \[[arXiv](https://arxiv.org/pdf/2011.00449.pdf)\].
 As such, I work at the intersection of data mining and natural language processing.
 
 Currently, I am working on topic-based summarization with minimal supervision, a novel task for large corpus summarization, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
@@ -33,7 +33,7 @@ Advisor: Prof. [Huan Liu](https://www.public.asu.edu/~huanliu/)
 Topic: Text-based Recommendation and Privacy-preserving Named Entity Recognition    
 Advisor: Prof. [Yongfeng Huang](http://thungnlab.cn/)  
 
-* **Research Intern @ University of Pennsylvania**, Jul 2019 - Nov 2019  
+* **Research Intern @ University of Pennsylvania**, Jul 2019 - Aug 2020  
 Topic: Medical Non-adherence Discovery  
 Advisor: Prof. [Graciela Gonzalez Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd)  
 
@@ -52,7 +52,7 @@ Selected Publications
 **Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng   Huang, Xing Xie.  
 ***CoRR**, under review as a conference submission, 2020.* 
 
-* Improving Cyberbully Detection with User Interaction \[[PDF]()\]  
+* Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
 **Suyu Ge**, Lu Cheng, Huan Liu.  
 ***CoRR**, under review as a conference submission, 2020.* 
 
