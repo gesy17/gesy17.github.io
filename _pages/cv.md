@@ -20,7 +20,7 @@ redirect_from:
 ***CoRR**, under review as a conference submission, 2020.* 
 
 * FedNER: Medical Named Entity Recognition with Federated Learning \[[PDF](https://arxiv.org/pdf/2003.09288.pdf)\]  
-**Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng   Huang, Xing Xie.  
+**Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng Huang, Xing Xie.  
 ***CoRR**, under review as a conference submission, 2020.*  
 
 * Active Neural Networks to Detect Medication Change in Social Media \[[PDF](/files/ISMB_poster.pdf)\] \[[Link](https://www.iscb.org/cms_addon/conferences/ismb2020/posters.php?track=Text%20Mining&session=A#search)\]  

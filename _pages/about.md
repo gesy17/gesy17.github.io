@@ -48,6 +48,10 @@ Selected Publications
 **Suyu Ge**, Tao Qi, Chuhan Wu, Fangzhao Wu, Xing Xie, Yongfeng Huang.  
 *CCF Transactions on Pervasive Computing and Interaction, 2019* 
 
+* Active Neural Networks to Detect Medication Change in Social Media \[[PDF](/files/ISMB_poster.pdf)\] \[[Link](https://www.iscb.org/cms_addon/conferences/ismb2020/posters.php?track=Text%20Mining&session=A#search)\]  
+Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen Oconnor, Graciela Gonzalez-Hernandez  
+*The Intelligent Systems for Molecular Biology (**ISMB**) Conference, Poster, 2020.* 
+
 * FedNER: Medical Named Entity Recognition with Federated Learning \[[PDF](https://arxiv.org/pdf/2003.09288.pdf)\]  
 **Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng   Huang, Xing Xie.  
 ***CoRR**, under review as a conference submission, 2020.* 
@@ -55,10 +59,6 @@ Selected Publications
 * Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
 **Suyu Ge**, Lu Cheng, Huan Liu.  
 ***CoRR**, under review as a conference submission, 2020.* 
-
-* Detecting and Extracting of Adverse Drug Reaction Mentioning Tweets with Multi-Head Self Attention \[[PDF](https://www.aclweb.org/anthology/W19-3214.pdf)\]  
-**Suyu Ge**, Tao Qi, Chuhan Wu, Yongfeng Huang.  
-*The Fourth Social Media Mining for Health Applications (**SMM4H**) Workshop, colocated with **ACL**, 2019*  
 
    For a full publication list, please visit [Publications](https://gesy17.github.io/publications/)
 
