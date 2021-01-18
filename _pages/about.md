@@ -43,21 +43,22 @@ Selected Publications
 **Suyu Ge**, Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang.  
 *The Web Conference (**WWW**), 2020*
 
+* Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
+**Suyu Ge**, Lu Cheng, Huan Liu.  
+*The Web Conference (**WWW**), 2021, to appear*
+
 * Helpfulness-aware Review Based Neural Recommendation \[[PDF](https://link.springer.com/article/10.1007/s42486-019-00023-0)\]  
 **Suyu Ge**, Tao Qi, Chuhan Wu, Fangzhao Wu, Xing Xie, Yongfeng Huang.  
 *CCF Transactions on Pervasive Computing and Interaction, 2019* 
 
 * Active Neural Networks to Detect Medication Change in Social Media \[[PDF](/files/ISMB_poster.pdf)\] \[[Link](https://www.iscb.org/cms_addon/conferences/ismb2020/posters.php?track=Text%20Mining&session=A#search)\]  
 Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen Oconnor, Graciela Gonzalez-Hernandez  
-*The Intelligent Systems for Molecular Biology (**ISMB**) Conference, Poster, 2020.* 
+*The Intelligent Systems for Molecular Biology (**ISMB**) Conference, Poster, 2020* 
 
 * FedNER: Medical Named Entity Recognition with Federated Learning \[[PDF](https://arxiv.org/pdf/2003.09288.pdf)\]  
 **Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng   Huang, Xing Xie.  
-***CoRR**, under review as a conference submission, 2020.* 
-
-* Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
-**Suyu Ge**, Lu Cheng, Huan Liu.  
-***CoRR**, under review as a conference submission, 2020.* 
+*ArXiv Preprint, 2020* 
+ 
 
    For a full publication list, please visit [Publications](https://gesy17.github.io/publications/)
 

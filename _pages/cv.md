@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}  
+## Preprint
+
+* FedNER: Medical Named Entity Recognition with Federated Learning \[[PDF](https://arxiv.org/pdf/2003.09288.pdf)\]  
+**Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng Huang, Xing Xie.  
+*ArXiv Preprint, 2020*
 
 ## Conference Publications
 
@@ -17,11 +22,7 @@ redirect_from:
 
 * Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
 **Suyu Ge**, Lu Cheng, Huan Liu.  
-***CoRR**, under review as a conference submission, 2020.* 
-
-* FedNER: Medical Named Entity Recognition with Federated Learning \[[PDF](https://arxiv.org/pdf/2003.09288.pdf)\]  
-**Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng Huang, Xing Xie.  
-***CoRR**, under review as a conference submission, 2020.*  
+*The Web Conference (**WWW**), 2021, to appear*
 
 * Active Neural Networks to Detect Medication Change in Social Media \[[PDF](/files/ISMB_poster.pdf)\] \[[Link](https://www.iscb.org/cms_addon/conferences/ismb2020/posters.php?track=Text%20Mining&session=A#search)\]  
 Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen Oconnor, Graciela Gonzalez-Hernandez  
