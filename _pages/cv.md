@@ -22,11 +22,11 @@ redirect_from:
 
 * Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
 **Suyu Ge**, Lu Cheng, Huan Liu.  
-*The Web Conference (**WWW**), 2021, to appear*
+*The Web Conference (**WWW**), 2021*
 
 * Active Neural Networks to Detect Medication Change in Social Media \[[PDF](/files/ISMB_poster.pdf)\] \[[Link](https://www.iscb.org/cms_addon/conferences/ismb2020/posters.php?track=Text%20Mining&session=A#search)\]  
 Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen Oconnor, Graciela Gonzalez-Hernandez  
-*The Intelligent Systems for Molecular Biology (**ISMB**) Conference, Poster, 2020.*
+*The Intelligent Systems for Molecular Biology (**ISMB**) Conference, Poster, 2020*
 
 * Neural News Recommendation with Multi-head Self-attention \[[PDF](https://www.aclweb.org/anthology/D19-1671.pdf)\]    
 Chuhan Wu, Fangzhao Wu, **Suyu Ge**, Tao Qi, Yongfeng Huang, Xing Xie.  

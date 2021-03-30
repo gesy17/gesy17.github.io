@@ -8,20 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an undergraduate student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/).
+I am an undergraduate student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/). I will join UIUC as a first-year graduate student at 2021 Fall, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
 
-I am passionate about designing text mining algorithm for real-world application, including recommendation, medical NLP and NLP for social good.
-As such, I work at the intersection of data mining and natural language processing.
+<!-- I am passionate about designing text mining algorithm for real-world application, including recommendation, medical NLP and NLP for social good.
+As such, I work at the intersection of data mining and natural language processing. -->
+<!-- 
+Currently, I am working on topic-based summarization with minimal supervision, a novel task for large corpus summarization, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). -->
 
-Currently, I am working on topic-based summarization with minimal supervision, a novel task for large corpus summarization, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
+Interests
+======
+* Unsupervised / Weakly-Supervised Text Mining
+* Socially Responsible Text Mining
+* User Modeling
 
 Education
 ======
 * B.E. in Electronic Engineering, Tsinghua University, 2017-2021 (expected)
 
-Experience
-======
-* **Research Intern @ University of Illinois at Urbana-Champaign**, Jul 2020 - Present  
+<!-- Experience
+====== -->
+<!-- * **Research Intern @ University of Illinois at Urbana-Champaign**, Jul 2020 - Present  
 Topic: Topic-based Corpus Summarization with Minimal Supervision  
 Advisor: Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)  
 
@@ -35,7 +41,7 @@ Advisor: Prof. [Yongfeng Huang](http://thungnlab.cn/)
 
 * **Research Intern @ University of Pennsylvania**, Jul 2019 - Dec 2019  
 Topic: Medical Non-adherence Discovery  
-Advisor: Prof. [Graciela Gonzalez Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd)  
+Advisor: Prof. [Graciela Gonzalez Hernandez](https://www.dbei.med.upenn.edu/bio/graciela-gonzalez-hernandez-ms-phd)   -->
 
 Selected Publications
 ======
@@ -45,7 +51,7 @@ Selected Publications
 
 * Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
 **Suyu Ge**, Lu Cheng, Huan Liu.  
-*The Web Conference (**WWW**), 2021, to appear*
+*The Web Conference (**WWW**), 2021*
 
 * Helpfulness-aware Review Based Neural Recommendation \[[PDF](https://link.springer.com/article/10.1007/s42486-019-00023-0)\]  
 **Suyu Ge**, Tao Qi, Chuhan Wu, Fangzhao Wu, Xing Xie, Yongfeng Huang.  
@@ -62,7 +68,7 @@ Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen Oconnor, Graciela Gonzalez-Her
 
    For a full publication list, please visit [Publications](https://gesy17.github.io/publications/)
 
-Misc.
-======
-* I enjoy spending my spare time swimming and reading
-* My favourite singer & artist group is Keyakizaka46 (Sakurazaka46)  
+<!-- Misc.
+====== -->
+<!-- * I enjoy spending my spare time swimming and reading
+* My favourite singer & artist group is Keyakizaka46 (Sakurazaka46)   -->
