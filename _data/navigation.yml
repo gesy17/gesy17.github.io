@@ -4,5 +4,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /files/CV_suyu.pdf
+  # - title: "CV"
+  #   url: /files/CV_suyu.pdf
