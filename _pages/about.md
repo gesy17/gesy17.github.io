@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in the Department of Electronic Engineering at Tsinghua University, advised by Prof. [Yongfeng Huang](http://thungnlab.cn/). I will join UIUC as a first-year graduate student at 2021 Fall, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/).
+
+I am a first-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)’s Data Mining Group (DMG) at University of Illinois Urbana-Champaign (UIUC). I obtained my B.E. degree from the Department of Electronic Engineering at Tsinghua University in 2021.
+
+
 
 <!-- I am passionate about designing text mining algorithm for real-world application, including recommendation, medical NLP and NLP for social good.
 As such, I work at the intersection of data mining and natural language processing. -->
@@ -17,13 +20,14 @@ Currently, I am working on topic-based summarization with minimal supervision, a
 
 Interests
 ======
-* Unsupervised / Weakly-Supervised Text Mining
+* Weakly-Supervised/Unsupervised Text Mining
 * Socially Responsible Text Mining
-* User Modeling
+* Natural Language Processing
 
 Education
 ======
-* B.E. in Electronic Engineering, Tsinghua University, 2017-2021 (expected)
+* Ph.D. in Computer Science, University of Illinois Urbana-Champaign, 2021-now
+* B.E. in Electronic Engineering, Tsinghua University, 2017-2021
 
 <!-- Experience
 ====== -->
@@ -57,16 +61,21 @@ Selected Publications
 **Suyu Ge**, Tao Qi, Chuhan Wu, Fangzhao Wu, Xing Xie, Yongfeng Huang.  
 *CCF Transactions on Pervasive Computing and Interaction, 2019* 
 
-* Active Neural Networks to Detect Medication Change in Social Media \[[PDF](/files/ISMB_poster.pdf)\] \[[Link](https://www.iscb.org/cms_addon/conferences/ismb2020/posters.php?track=Text%20Mining&session=A#search)\]  
-Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen Oconnor, Graciela Gonzalez-Hernandez  
-*The Intelligent Systems for Molecular Biology (**ISMB**) Conference, Poster, 2020* 
-
 * FedNER: Medical Named Entity Recognition with Federated Learning \[[PDF](https://arxiv.org/pdf/2003.09288.pdf)\]  
-**Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng   Huang, Xing Xie.  
+**Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng Huang, Xing Xie.  
 *ArXiv Preprint, 2020* 
  
+* Fine-Grained Opinion Summarization with Minimal Supervision \[[PDF]()\]  
+**Suyu Ge**, Jiaxin Huang, Yu Meng, Sharon Wang, Jiawei Han.  
+*ArXiv Preprint, 2021* 
 
-   For a full publication list, please visit [Publications](https://gesy17.github.io/publications/)
+* Joint Mitigation of Interactional Bias \[[PDF]()\]  
+Lu Cheng*, **Suyu Ge***, Huan Liu.  
+*ArXiv Preprint, 2021* 
+
+\* indicates equal contribution
+
+For a full publication list, please visit [Publications](https://gesy17.github.io/publications/)
 
 <!-- Misc.
 ====== -->

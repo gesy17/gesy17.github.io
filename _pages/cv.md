@@ -14,6 +14,16 @@ redirect_from:
 **Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng Huang, Xing Xie.  
 *ArXiv Preprint, 2020*
 
+* Fine-Grained Opinion Summarization with Minimal Supervision \[[PDF]()\]  
+**Suyu Ge**, Jiaxin Huang, Yu Meng, Sharon Wang, Jiawei Han.  
+*ArXiv Preprint, 2021* 
+
+* Joint Mitigation of Interactional Bias \[[PDF]()\]  
+Lu Cheng*, **Suyu Ge***, Huan Liu.  
+*ArXiv Preprint, 2021* 
+
+\* indicates equal contribution
+
 ## Conference Publications
 
 * Graph Enhanced Representation Learning for News Recommendation \[[PDF](https://arxiv.org/pdf/2003.14292.pdf)\]   
@@ -23,10 +33,6 @@ redirect_from:
 * Improving Cyberbully Detection with User Interaction \[[PDF](https://arxiv.org/pdf/2011.00449.pdf)\]  
 **Suyu Ge**, Lu Cheng, Huan Liu.  
 *The Web Conference (**WWW**), 2021*
-
-* Active Neural Networks to Detect Medication Change in Social Media \[[PDF](/files/ISMB_poster.pdf)\] \[[Link](https://www.iscb.org/cms_addon/conferences/ismb2020/posters.php?track=Text%20Mining&session=A#search)\]  
-Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen Oconnor, Graciela Gonzalez-Hernandez  
-*The Intelligent Systems for Molecular Biology (**ISMB**) Conference, Poster, 2020*
 
 * Neural News Recommendation with Multi-head Self-attention \[[PDF](https://www.aclweb.org/anthology/D19-1671.pdf)\]    
 Chuhan Wu, Fangzhao Wu, **Suyu Ge**, Tao Qi, Yongfeng Huang, Xing Xie.  
@@ -41,6 +47,10 @@ Chuhan Wu, Fangzhao Wu, Tao Qi, **Suyu Ge**, Yongfeng Huang, Xing Xie.
 * Helpfulness-aware Review Based Neural Recommendation \[[PDF](https://link.springer.com/article/10.1007/s42486-019-00023-0)\]  
 **Suyu Ge**, Tao Qi, Chuhan Wu, Fangzhao Wu, Xing Xie, Yongfeng Huang.  
 *CCF Transactions on Pervasive Computing and Interaction, 2019*  
+
+* Active Neural Networks to Detect Medication Change in Social Media \[[PDF](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocab158/6382264?searchresult=1)\]  
+Davy Weissenbacher, **Suyu Ge**, Ari Klein, Karen O’Connor, Robert Gross, Sean Hennessy, Graciela Gonzalez-Hernandez  
+*Journal of the American Medical Informatics Association (JAMIA), 2021*
 
 ## Workshop Publications
 

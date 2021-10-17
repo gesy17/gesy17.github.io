@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Suyu Ge"
 title_separator          : "-"
 name                     : &name "Suyu Ge"
-description              : &description "Undergraduate @ THU"
+description              : &description "PhD @ UIUC"
 url                      : "https://gesy17.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gesy17/gesy17.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suyu Ge 葛苏昱"
+  name             : "Suyu Ge"
   avatar           : "me.jpg"
-  bio              : "Undergraduate @ THU"
-  location         : "Beijing, China"
+  bio              : "CS PhD @ UIUC"
+  location         : "Urbana, IL"
   employer         :
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=WuCV72gAAAAJ&hl=en"
-  email            : "gesy17@mails.tsinghua.edu.cn"
+  email            : "suyuge2@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
