@@ -21,7 +21,7 @@ Currently, I am working on topic-based summarization with minimal supervision, a
 Interests
 ======
 * Weakly-Supervised/Unsupervised Text Mining
-* Socially Responsible Text Mining
+* Information Extraction
 * Natural Language Processing
 
 Education
