@@ -19,7 +19,7 @@ redirect_from:
 *ArXiv Preprint, 2021* 
 
 * Joint Mitigation of Interactional Bias \[[PDF]()\]  
-Lu Cheng*, **Suyu Ge***, Huan Liu.  
+Lu Cheng\*, **Suyu Ge**\*, Huan Liu.  
 *ArXiv Preprint, 2021* 
 
 \* indicates equal contribution
