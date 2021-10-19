@@ -65,7 +65,7 @@ Selected Publications
 **Suyu Ge**, Fangzhao Wu, Chuhan Wu, Tao Qi, Yongfeng Huang, Xing Xie.  
 *ArXiv Preprint, 2020* 
  
-* Fine-Grained Opinion Summarization with Minimal Supervision \[[PDF]()\]  
+* Fine-Grained Opinion Summarization with Minimal Supervision \[[PDF](https://arxiv.org/abs/2110.08845.pdf)\]  
 **Suyu Ge**, Jiaxin Huang, Yu Meng, Sharon Wang, Jiawei Han.  
 *ArXiv Preprint, 2021* 
 
