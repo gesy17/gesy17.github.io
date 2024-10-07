@@ -35,7 +35,7 @@ Selected Publications
 *ArXiv Preprint, 2024* 
 
 * [S2-Attention: Hardware-Aware Context Sharding Among Attention Heads](https://arxiv.org/pdf/2407.17678) \
-Xihui Lin, Yunan Zhang, **Suyu Ge**, Barun Patra, Vishrav Chaudhary, Xia Song. \
+Xihui Lin\*, Yunan Zhang\*, **Suyu Ge**, Barun Patra, Vishrav Chaudhary, Xia Song. \
 *ArXiv Preprint, 2024* 
 
 * [MART: Improving LLM Safety with Multi-Round Automatic Red-Teaming](https://arxiv.org/pdf/2311.07689) \
@@ -54,8 +54,3 @@ Education
 ======
 * Ph.D. in Computer Science, University of Illinois Urbana-Champaign, 2021-2025
 * B.E. in Electronic Engineering, Tsinghua University, 2017-2021
-
-<!-- Misc.
-====== -->
-<!-- * I enjoy spending my spare time swimming and reading
-* My favourite singer & artist group is Keyakizaka46 (Sakurazaka46)   -->
