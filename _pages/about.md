@@ -18,7 +18,7 @@ As such, I work at the intersection of data mining and natural language processi
 <!-- 
 Currently, I am working on topic-based summarization with minimal supervision, a novel task for large corpus summarization, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). -->
 
-Interests
+Research Interests
 ======
 * Large Language Model (LLM) Efficiency
 * LLM Alignment
@@ -44,7 +44,7 @@ Xihui Lin\*, Yunan Zhang\*, **Suyu Ge**, Barun Patra, Vishrav Chaudhary, Xia Son
 
 For a full publication list, please visit my [Google Scholar](https://gesy17.github.io/publications/)
 
-Experience
+Experiences
 ======
 * Research Intern at NVIDIA, working on LLM alignment, 2024.01-now
 * Research Intern at Meta, worked on LLM safety alignment, 2023.05-2023.12
