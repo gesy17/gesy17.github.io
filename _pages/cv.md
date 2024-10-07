@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}  
-## Publication List
 
 * [Model Tells You What to Discard: Adaptive KV Cache Compression for LLMs](https://arxiv.org/abs/2110.08845.pdf) \
 **Suyu Ge**\*, Yunan Zhang\*, Liyuan Liu\*, Minjia Zhang, Jiawei Han, Jianfeng Gao. \

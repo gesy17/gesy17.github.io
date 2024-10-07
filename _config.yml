@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Suyu Ge"
-  avatar           : "images/me.jpg"
+  avatar           : "me.jpg"
   bio              : "CS PhD @ UIUC"
   location         : "Urbana, IL"
   employer         :
