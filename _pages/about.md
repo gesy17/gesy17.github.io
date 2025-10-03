@@ -9,14 +9,8 @@ redirect_from:
 ---
 
 
-I am a final-year CS Ph.D. student at University of Illinois Urbana-Champaign (UIUC), jointly advised by Prof. Jiawei Han and Prof. Hao Peng. I obtained my B.E. degree from the Department of Electronic Engineering at Tsinghua University in 2021.
+I am a final-year CS Ph.D. student at University of Illinois Urbana-Champaign (UIUC), jointly advised by Prof. Jiawei Han and Prof. Hao Peng.
 
-
-
-<!-- I am passionate about designing text mining algorithm for real-world application, including recommendation, medical NLP and NLP for social good.
-As such, I work at the intersection of data mining and natural language processing. -->
-<!-- 
-Currently, I am working on topic-based summarization with minimal supervision, a novel task for large corpus summarization, advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). -->
 
 Research Interests
 ======
@@ -53,4 +47,3 @@ Experiences
 Education
 ======
 * Ph.D. in Computer Science, University of Illinois Urbana-Champaign, 2021-2025
-* B.E. in Electronic Engineering, Tsinghua University, 2017-2021
